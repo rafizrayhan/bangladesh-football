@@ -1,0 +1,15 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,sources
+1979-09-08,Bahrain,Bangladesh,2,0,Korea Cup,Seoul,South Korea,True,11v11.com season 1980; World Football Elo yearly totals
+1979-09-14,Bangladesh,Sri Lanka,3,1,Korea Cup,Chungju,South Korea,True,11v11.com season 1980; World Football Elo yearly totals
+1985-05-04,North Korea,Bangladesh,1,0,Quaid-e-Azam International Tournament,Peshawar,Pakistan,True,RSSSF Bangladesh list; 11v11.com season 1985; World Football Elo yearly totals
+1994-09-16,Bangladesh,Yemen,1,0,Friendly,Doha,Qatar,True,11v11.com season 1995; World Football Elo yearly totals
+2009-12-11,Bangladesh,India,0,1,SAFF Cup,Dhaka,Bangladesh,False,11v11.com season 2010; World Football Elo yearly totals
+2026-03-31,Singapore,Bangladesh,1,0,AFC Asian Cup qualification,Singapore,Singapore,False,The Daily Star 31 Mar 2026; Outlook India; SportPlus.sg; Dhaka Tribune (missing from the open dataset)
+2026-11-05,Bangladesh,Bhutan,1,0,SAFF Cup,Dhaka,Bangladesh,False,The Daily Star 5 Nov 2026; Daily Observer; Daily Sun (after the open dataset's last update)
+2026-11-05,India,Pakistan,3,2,SAFF Cup,Dhaka,Bangladesh,True,AIFF match report 5 Nov 2026; Dawn 8 Nov 2026; Gulf News 11 Nov 2026 (South Asian peer match after the open dataset's last update)
+2026-11-08,Maldives,Pakistan,0,3,SAFF Cup,Dhaka,Bangladesh,True,Dawn 8 Nov 2026; Wikipedia Maldives national team results (South Asian peer match after the open dataset's last update)
+2026-11-08,Sri Lanka,Bhutan,2,2,SAFF Cup,Dhaka,Bangladesh,True,Ada Derana 8 Nov 2026; Daily Sun 8 Nov 2026; bdnews24 8 Nov 2026 (South Asian peer match after the open dataset's last update)
+2026-11-11,India,Maldives,1,0,SAFF Cup,Dhaka,Bangladesh,True,Khel Now 11 Nov 2026; Gulf News 11 Nov 2026 (South Asian peer match after the open dataset's last update)
+2026-11-11,Bangladesh,Sri Lanka,4,0,SAFF Cup,Dhaka,Bangladesh,False,The Daily Star 11 Nov 2026; Wikipedia 2026-27 in Bangladeshi football; Dhaka Tribune; Prothom Alo (after the open dataset's last update)
+2026-11-14,India,Bhutan,2,1,SAFF Cup,Dhaka,Bangladesh,True,PTI/ThePrint 14 Nov 2026; AFC 14 Nov 2026; BSS 14 Nov 2026 (South Asian peer match after the open dataset's last update)
+2026-11-14,Bangladesh,Pakistan,0,1,SAFF Cup,Dhaka,Bangladesh,False,The Business Standard 14 Nov 2026; AFC 14 Nov 2026; Dhaka Tribune 15 Nov 2026; Sofascore (after the open dataset's last update)

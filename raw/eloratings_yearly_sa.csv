@@ -1,0 +1,476 @@
+year,team,rank,rating
+1941,Afghanistan,88,913
+1942,Afghanistan,89,913
+1943,Afghanistan,89,913
+1944,Afghanistan,91,913
+1945,Afghanistan,90,913
+1946,Afghanistan,93,913
+1947,Afghanistan,98,913
+1948,India,34,1597
+1948,Afghanistan,103,900
+1949,India,35,1597
+1949,Afghanistan,108,900
+1950,India,37,1597
+1950,Pakistan,70,1394
+1950,Afghanistan,112,900
+1951,India,31,1625
+1951,Pakistan,72,1394
+1951,Afghanistan,116,893
+1952,India,38,1600
+1952,Pakistan,69,1429
+1952,Afghanistan,119,893
+1953,India,36,1610
+1953,Pakistan,71,1436
+1953,Afghanistan,125,893
+1954,India,51,1559
+1954,Pakistan,82,1414
+1954,Afghanistan,133,889
+1955,India,59,1528
+1955,Pakistan,79,1418
+1955,Afghanistan,133,889
+1956,India,58,1532
+1956,Pakistan,81,1417
+1956,Afghanistan,138,889
+1957,India,57,1546
+1957,Pakistan,82,1417
+1957,Afghanistan,141,889
+1958,India,65,1508
+1958,Pakistan,92,1389
+1958,Afghanistan,143,889
+1959,India,86,1418
+1959,Pakistan,88,1412
+1959,Afghanistan,145,886
+1960,India,74,1470
+1960,Pakistan,102,1366
+1960,Afghanistan,148,886
+1961,India,86,1418
+1961,Pakistan,101,1366
+1961,Afghanistan,153,886
+1962,India,74,1485
+1962,Pakistan,100,1370
+1962,Afghanistan,154,886
+1963,India,72,1495
+1963,Pakistan,100,1382
+1963,Afghanistan,157,886
+1964,India,74,1495
+1964,Pakistan,88,1407
+1964,Afghanistan,158,886
+1965,India,63,1517
+1965,Pakistan,93,1389
+1965,Afghanistan,161,886
+1966,India,69,1494
+1966,Pakistan,95,1389
+1966,Afghanistan,161,886
+1967,India,100,1374
+1967,Pakistan,111,1321
+1967,Afghanistan,161,886
+1968,India,105,1341
+1968,Pakistan,110,1321
+1968,Afghanistan,164,886
+1969,Pakistan,106,1325
+1969,India,113,1302
+1969,Afghanistan,164,886
+1970,India,85,1422
+1970,Pakistan,108,1319
+1970,Afghanistan,165,886
+1971,India,92,1385
+1971,Pakistan,109,1319
+1971,Afghanistan,166,886
+1972,India,103,1350
+1972,Pakistan,111,1319
+1972,Nepal,163,909
+1972,Sri Lanka,165,902
+1972,Afghanistan,168,886
+1973,India,97,1383
+1973,Pakistan,112,1316
+1973,Bangladesh,155,1037
+1973,Nepal,164,909
+1973,Sri Lanka,166,902
+1973,Afghanistan,169,886
+1974,India,104,1334
+1974,Pakistan,113,1314
+1974,Bangladesh,155,1037
+1974,Nepal,166,909
+1974,Sri Lanka,167,902
+1974,Afghanistan,170,886
+1975,India,103,1350
+1975,Pakistan,112,1314
+1975,Bangladesh,157,1016
+1975,Nepal,167,909
+1975,Sri Lanka,168,902
+1975,Afghanistan,171,867
+1976,Pakistan,118,1293
+1976,India,125,1248
+1976,Bangladesh,161,1012
+1976,Nepal,170,909
+1976,Afghanistan,171,903
+1976,Sri Lanka,172,902
+1977,Pakistan,120,1293
+1977,India,129,1226
+1977,Bangladesh,162,1012
+1977,Nepal,170,909
+1977,Sri Lanka,171,902
+1977,Afghanistan,173,893
+1978,Pakistan,116,1293
+1978,India,129,1218
+1978,Bangladesh,163,994
+1978,Nepal,171,909
+1978,Sri Lanka,172,902
+1978,Afghanistan,174,893
+1979,Pakistan,116,1293
+1979,India,130,1215
+1979,Bangladesh,164,978
+1979,Nepal,168,915
+1979,Sri Lanka,172,910
+1979,Afghanistan,176,861
+1979,Maldives,180,764
+1980,Pakistan,115,1293
+1980,India,136,1202
+1980,Bangladesh,165,965
+1980,Nepal,169,915
+1980,Sri Lanka,177,887
+1980,Afghanistan,178,861
+1980,Maldives,181,764
+1981,Pakistan,106,1316
+1981,India,137,1204
+1981,Bangladesh,166,965
+1981,Nepal,169,915
+1981,Sri Lanka,178,887
+1981,Afghanistan,179,861
+1981,Maldives,182,764
+1982,Pakistan,120,1263
+1982,India,128,1236
+1982,Bangladesh,166,974
+1982,Nepal,169,925
+1982,Sri Lanka,177,887
+1982,Afghanistan,179,861
+1982,Maldives,182,764
+1982,Bhutan,185,694
+1983,Pakistan,122,1263
+1983,India,126,1255
+1983,Bangladesh,162,1011
+1983,Sri Lanka,175,887
+1983,Nepal,176,886
+1983,Afghanistan,179,861
+1983,Maldives,182,764
+1983,Bhutan,186,694
+1984,Pakistan,136,1213
+1984,India,137,1212
+1984,Bangladesh,162,1027
+1984,Sri Lanka,170,915
+1984,Afghanistan,179,860
+1984,Nepal,181,809
+1984,Maldives,183,751
+1984,Bhutan,189,657
+1985,India,133,1220
+1985,Pakistan,150,1130
+1985,Bangladesh,154,1108
+1985,Sri Lanka,170,915
+1985,Afghanistan,180,860
+1985,Nepal,183,840
+1985,Maldives,186,736
+1985,Bhutan,191,643
+1986,India,137,1197
+1986,Bangladesh,153,1103
+1986,Pakistan,164,1033
+1986,Sri Lanka,175,906
+1986,Nepal,180,864
+1986,Afghanistan,181,860
+1986,Maldives,186,736
+1986,Bhutan,191,634
+1987,India,139,1190
+1987,Bangladesh,157,1056
+1987,Pakistan,160,1050
+1987,Nepal,173,919
+1987,Sri Lanka,176,906
+1987,Afghanistan,182,860
+1987,Maldives,187,726
+1987,Bhutan,193,617
+1988,India,150,1125
+1988,Bangladesh,160,1056
+1988,Pakistan,164,1018
+1988,Nepal,174,924
+1988,Sri Lanka,177,906
+1988,Afghanistan,184,860
+1988,Maldives,188,726
+1988,Bhutan,194,617
+1989,India,149,1135
+1989,Bangladesh,160,1078
+1989,Pakistan,165,1017
+1989,Sri Lanka,180,879
+1989,Nepal,181,878
+1989,Afghanistan,185,860
+1989,Maldives,189,727
+1989,Bhutan,195,617
+1990,India,153,1135
+1990,Bangladesh,167,1064
+1990,Pakistan,173,994
+1990,Sri Lanka,185,879
+1990,Nepal,187,878
+1990,Afghanistan,189,860
+1990,Maldives,193,727
+1990,Bhutan,199,617
+1991,India,164,1100
+1991,Bangladesh,169,1079
+1991,Pakistan,175,1038
+1991,Afghanistan,191,860
+1991,Sri Lanka,192,842
+1991,Nepal,192,842
+1991,Maldives,195,774
+1991,Bhutan,203,617
+1992,India,169,1111
+1992,Bangladesh,176,1073
+1992,Pakistan,184,1001
+1992,Afghanistan,200,860
+1992,Sri Lanka,201,842
+1992,Nepal,201,842
+1992,Maldives,204,774
+1992,Bhutan,211,617
+1993,India,165,1135
+1993,Bangladesh,183,1025
+1993,Sri Lanka,198,894
+1993,Nepal,199,891
+1993,Pakistan,200,878
+1993,Afghanistan,204,860
+1993,Maldives,207,770
+1993,Bhutan,214,617
+1994,India,171,1105
+1994,Bangladesh,184,1031
+1994,Sri Lanka,197,894
+1994,Nepal,199,884
+1994,Pakistan,200,878
+1994,Afghanistan,203,860
+1994,Maldives,207,770
+1994,Bhutan,214,617
+1995,India,173,1095
+1995,Bangladesh,183,1031
+1995,Sri Lanka,196,918
+1995,Nepal,199,878
+1995,Pakistan,200,872
+1995,Afghanistan,203,860
+1995,Maldives,207,770
+1995,Bhutan,215,617
+1996,India,179,1054
+1996,Bangladesh,184,1031
+1996,Sri Lanka,192,971
+1996,Pakistan,201,868
+1996,Afghanistan,203,860
+1996,Nepal,206,816
+1996,Maldives,208,747
+1996,Bhutan,217,617
+1997,India,168,1107
+1997,Bangladesh,192,967
+1997,Sri Lanka,194,955
+1997,Pakistan,200,884
+1997,Afghanistan,203,860
+1997,Maldives,206,782
+1997,Nepal,207,753
+1997,Bhutan,217,617
+1998,India,175,1097
+1998,Bangladesh,193,967
+1998,Sri Lanka,195,945
+1998,Pakistan,200,884
+1998,Afghanistan,202,860
+1998,Maldives,204,790
+1998,Nepal,208,748
+1998,Bhutan,219,617
+1999,India,165,1125
+1999,Bangladesh,182,1042
+1999,Maldives,199,873
+1999,Afghanistan,201,860
+1999,Sri Lanka,204,820
+1999,Pakistan,205,816
+1999,Nepal,207,772
+1999,Bhutan,222,584
+2000,India,176,1083
+2000,Bangladesh,187,1011
+2000,Sri Lanka,199,885
+2000,Maldives,200,872
+2000,Afghanistan,202,860
+2000,Pakistan,206,807
+2000,Nepal,207,783
+2000,Bhutan,223,562
+2001,India,166,1128
+2001,Bangladesh,186,1012
+2001,Sri Lanka,194,903
+2001,Maldives,197,900
+2001,Nepal,201,881
+2001,Afghanistan,204,860
+2001,Pakistan,208,781
+2001,Bhutan,224,561
+2002,India,165,1133
+2002,Bangladesh,187,1012
+2002,Sri Lanka,193,914
+2002,Maldives,198,893
+2002,Nepal,199,881
+2002,Afghanistan,203,860
+2002,Pakistan,208,782
+2002,Bhutan,225,574
+2003,India,165,1154
+2003,Bangladesh,188,1012
+2003,Sri Lanka,190,959
+2003,Maldives,193,946
+2003,Nepal,202,853
+2003,Pakistan,203,850
+2003,Afghanistan,207,815
+2003,Bhutan,223,587
+2004,India,161,1180
+2004,Bangladesh,188,1012
+2004,Maldives,190,993
+2004,Sri Lanka,191,983
+2004,Nepal,201,853
+2004,Pakistan,202,850
+2004,Afghanistan,207,815
+2004,Bhutan,225,587
+2005,India,163,1181
+2005,Bangladesh,183,1043
+2005,Maldives,185,1027
+2005,Sri Lanka,195,908
+2005,Pakistan,199,881
+2005,Nepal,202,842
+2005,Afghanistan,207,808
+2005,Bhutan,226,567
+2006,India,180,1047
+2006,Maldives,183,1027
+2006,Bangladesh,185,995
+2006,Sri Lanka,191,946
+2006,Nepal,198,893
+2006,Pakistan,199,890
+2006,Afghanistan,206,803
+2006,Bhutan,227,563
+2007,India,172,1130
+2007,Maldives,180,1059
+2007,Bangladesh,191,961
+2007,Sri Lanka,192,944
+2007,Pakistan,198,908
+2007,Nepal,199,890
+2007,Afghanistan,206,801
+2007,Bhutan,223,600
+2008,India,151,1227
+2008,Maldives,178,1095
+2008,Nepal,191,930
+2008,Sri Lanka,196,920
+2008,Bangladesh,197,916
+2008,Pakistan,203,855
+2008,Afghanistan,207,804
+2008,Bhutan,222,652
+2009,India,156,1201
+2009,Maldives,166,1161
+2009,Nepal,189,971
+2009,Sri Lanka,191,939
+2009,Bangladesh,195,925
+2009,Pakistan,199,894
+2009,Afghanistan,210,771
+2009,Bhutan,223,599
+2010,Maldives,166,1152
+2010,India,170,1149
+2010,Nepal,188,971
+2010,Sri Lanka,192,934
+2010,Bangladesh,195,922
+2010,Pakistan,199,894
+2010,Afghanistan,210,770
+2010,Bhutan,225,599
+2011,India,154,1203
+2011,Maldives,175,1108
+2011,Nepal,189,972
+2011,Bangladesh,192,942
+2011,Afghanistan,196,914
+2011,Pakistan,197,910
+2011,Sri Lanka,204,862
+2011,Bhutan,230,542
+2012,India,166,1150
+2012,Maldives,177,1117
+2012,Bangladesh,194,950
+2012,Nepal,197,926
+2012,Afghanistan,199,914
+2012,Pakistan,200,907
+2012,Sri Lanka,206,859
+2012,Bhutan,235,542
+2013,India,178,1081
+2013,Maldives,178,1081
+2013,Afghanistan,184,1051
+2013,Pakistan,194,944
+2013,Bangladesh,195,939
+2013,Nepal,200,906
+2013,Sri Lanka,208,827
+2013,Bhutan,235,522
+2014,Afghanistan,178,1096
+2014,India,180,1068
+2014,Maldives,182,1067
+2014,Bangladesh,195,945
+2014,Pakistan,197,934
+2014,Nepal,204,887
+2014,Sri Lanka,208,836
+2014,Bhutan,237,522
+2015,Afghanistan,174,1143
+2015,India,183,1063
+2015,Maldives,188,993
+2015,Pakistan,195,949
+2015,Bangladesh,202,890
+2015,Nepal,207,845
+2015,Sri Lanka,211,775
+2015,Bhutan,236,553
+2016,Afghanistan,170,1140
+2016,India,181,1101
+2016,Maldives,195,952
+2016,Pakistan,196,949
+2016,Nepal,201,903
+2016,Bangladesh,210,803
+2016,Sri Lanka,220,689
+2016,Bhutan,231,609
+2017,India,169,1160
+2017,Afghanistan,172,1149
+2017,Pakistan,195,949
+2017,Maldives,198,939
+2017,Nepal,202,901
+2017,Bangladesh,209,803
+2017,Sri Lanka,221,689
+2017,Bhutan,232,592
+2018,India,154,1219
+2018,Afghanistan,171,1148
+2018,Maldives,192,979
+2018,Pakistan,198,936
+2018,Nepal,201,878
+2018,Bangladesh,210,791
+2018,Sri Lanka,218,707
+2018,Bhutan,235,556
+2019,India,160,1190
+2019,Afghanistan,177,1136
+2019,Maldives,194,947
+2019,Nepal,197,918
+2019,Pakistan,204,876
+2019,Bangladesh,208,831
+2019,Sri Lanka,226,671
+2019,Bhutan,234,563
+2020,India,163,1190
+2020,Afghanistan,176,1136
+2020,Maldives,194,947
+2020,Nepal,199,904
+2020,Pakistan,204,876
+2020,Bangladesh,207,842
+2020,Sri Lanka,227,660
+2020,Bhutan,234,563
+2021,India,156,1206
+2021,Afghanistan,173,1141
+2021,Nepal,195,935
+2021,Maldives,199,901
+2021,Pakistan,204,876
+2021,Bangladesh,207,854
+2021,Sri Lanka,222,679
+2021,Bhutan,234,563
+2022,India,157,1217
+2022,Afghanistan,177,1094
+2022,Nepal,195,933
+2022,Maldives,196,927
+2022,Pakistan,203,870
+2022,Bangladesh,206,844
+2022,Sri Lanka,224,675
+2022,Bhutan,235,563
+2023,India,152,1260
+2023,Afghanistan,178,1073
+2023,Bangladesh,195,937
+2023,Nepal,201,894
+2023,Maldives,203,879
+2023,Pakistan,207,829
+2023,Sri Lanka,222,684
+2023,Bhutan,229,620
